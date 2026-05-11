@@ -1458,11 +1458,6 @@
       "count": 3
     }
   },
-  "web/app/components/base/prompt-editor/plugins/component-picker-block/index.tsx": {
-    "no-restricted-imports": {
-      "count": 1
-    }
-  },
   "web/app/components/base/prompt-editor/plugins/component-picker-block/menu.tsx": {
     "erasable-syntax-only/parameter-properties": {
       "count": 1
@@ -2881,11 +2876,6 @@
       "count": 5
     }
   },
-  "web/app/components/workflow-app/hooks/use-workflow-template.ts": {
-    "ts/no-explicit-any": {
-      "count": 2
-    }
-  },
   "web/app/components/workflow-app/index.tsx": {
     "ts/no-explicit-any": {
       "count": 1
@@ -3215,11 +3205,6 @@
   },
   "web/app/components/workflow/nodes/_base/components/mcp-tool-availability.tsx": {
     "react-refresh/only-export-components": {
-      "count": 1
-    }
-  },
-  "web/app/components/workflow/nodes/_base/components/memory-config.tsx": {
-    "unicorn/prefer-number-properties": {
       "count": 1
     }
   },
@@ -3856,11 +3841,6 @@
   "web/app/components/workflow/nodes/start/use-config.ts": {
     "ts/no-explicit-any": {
       "count": 1
-    }
-  },
-  "web/app/components/workflow/nodes/start/use-single-run-form-params.ts": {
-    "ts/no-explicit-any": {
-      "count": 3
     }
   },
   "web/app/components/workflow/nodes/template-transform/default.ts": {
